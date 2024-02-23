@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Casting Bruner Zach/1.0.0": {
+        "runtime": {
+          "Casting Bruner Zach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Casting Bruner Zach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

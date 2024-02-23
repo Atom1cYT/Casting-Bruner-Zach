@@ -1,0 +1,14 @@
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\obj\Debug\net6.0\Casting Bruner Zach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\obj\Debug\net6.0\Casting Bruner Zach.AssemblyInfoInputs.cache
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\obj\Debug\net6.0\Casting Bruner Zach.AssemblyInfo.cs
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\obj\Debug\net6.0\Casting Bruner Zach.csproj.CoreCompileInputs.cache
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\bin\Debug\net6.0\Casting Bruner Zach.exe
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\bin\Debug\net6.0\Casting Bruner Zach.deps.json
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\bin\Debug\net6.0\Casting Bruner Zach.runtimeconfig.json
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\bin\Debug\net6.0\Casting Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\bin\Debug\net6.0\Casting Bruner Zach.pdb
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\obj\Debug\net6.0\Casting Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\obj\Debug\net6.0\refint\Casting Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\obj\Debug\net6.0\Casting Bruner Zach.pdb
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\obj\Debug\net6.0\Casting Bruner Zach.genruntimeconfig.cache
+C:\Users\ZacharyBruner\source\repos\Casting Bruner Zach\obj\Debug\net6.0\ref\Casting Bruner Zach.dll
